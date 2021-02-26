@@ -1,0 +1,32 @@
+#navbarSupportedContent{
+        font-family: 'Cookie', cursive;
+        font-size: 18px;
+        
+}
+
+h1{
+    font-family: 'Cookie', cursive;
+    font-size: 50px;
+    color: #1398f7;
+    text-align: center;
+}
+
+.jumbotron{
+    background-image: url(images/sky.jpg);
+    background-position: center;
+     background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+  
+
+body, html{
+    height: 100%;
+    margin: 0;
+}
+
+.container{
+    font-family: 'Cookie', cursive;
+        font-size: 15px;
+        color: black;
+}
